@@ -1,4 +1,4 @@
-****HOME AUTOMATION SYSTEM
+**** HOME AUTOMATION SYSTEM ****
 This allows user to interact with the devices using a Bluetooth
 android application.
 Arduino Mega 2560 with the Home(APK) enables to control the devices connected to Arduino.
